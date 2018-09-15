@@ -2578,9 +2578,8 @@ input, select, textarea {
 				overflow: hidden;
 			}
 
-			.tiles article:hover > .image {
-				opacity: 0.5;
-				background: #000000;
+			.tiles article:hover > .image img {
+				opacity: 0.2;
 			}
 
 				.tiles article > .image img {
@@ -2633,6 +2632,12 @@ input, select, textarea {
 
 				.tiles article > a h2 {
 					margin: 0;
+				}
+
+				
+				.tiles article:hover > a h2 {
+					color: #83c348;
+					font-weight: bold;
 				}
 
 				.tiles article > a .content {
@@ -3276,10 +3281,17 @@ input, select, textarea {
 
 
 
-.headimg {
+header img {
 	width: 200px;
 }
 article img {
-	width: 400px;
-	height: 400px;
+	width: auto;
+	height: auto;
+	max-width: 400px;
+	max-height: 400px;
+}
+article .image p {
+	color: red;
+	text-align: center;
+	font-weight: bold;
 }
