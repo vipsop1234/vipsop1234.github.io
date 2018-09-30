@@ -3298,7 +3298,7 @@ article .image p {
 
 #productImg {
 	min-height: 700px;
-	max-width: 700px;
+	width: 500px;
 }
 
 section.content {
