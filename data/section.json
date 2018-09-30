@@ -1,14 +1,11 @@
 {
-  "daunhot": [
-    {
-      "title": "4T HC scooter 5w40",
-      "price": "250.000",
-      "img": " http://liqui-moly.vn/wp-content/uploads/2018/05/20829_119.jpg",
-      "content": " Dầu động cơ hiệu suất cao dựa trên công nghệ tổng hợp. Đạt hiệu suất tối đa và bảo vệ động cơ tối đa trong mọi điều kiện hoạt động. Đảm bảo bôi trơn tối ưu, đặc biệt làm sạch động cơ, ma sát tuyệt vời."
-    }
-  ],
-  "dnliquy-moly": [
-    {
+  "daunhot": [{
+    "title": "4T HC scooter 5w40",
+    "price": "250.000",
+    "img": " http://liqui-moly.vn/wp-content/uploads/2018/05/20829_119.jpg",
+    "content": " Dầu động cơ hiệu suất cao dựa trên công nghệ tổng hợp. Đạt hiệu suất tối đa và bảo vệ động cơ tối đa trong mọi điều kiện hoạt động. Đảm bảo bôi trơn tối ưu, đặc biệt làm sạch động cơ, ma sát tuyệt vời."
+  }],
+  "dnliquy-moly": [{
       "title": "4T STREET RACE 10W40",
       "price": "320.000 ",
       "img": "http://liqui-moly.vn/wp-content/uploads/2018/05/20753_980.jpg",
@@ -57,16 +54,13 @@
       "content": " Synthoil Energy SAE 0W-40 ma sát thấp cho động cơ Xăng và Diesel bao gồm cả động cơ có Turbo tăng áp và bộ chuyển đổi xúc tác. Dầu tổng hợp và phụ gia cao cấp đảm bảo độ nhớt ổn định, ngăn chặn hình thành cặn. Bảo vệ động cơ tối ưu.<br/>Cấp chất lượng: ACEA A3∙ ACEA B4∙ API CF∙ API SM<br/>LIQUI MOLY khuyên dùng sản phẩm này cho động cơ xe có yêu cầu thông số kỹ thuật: BMW Longlife - 98∙ Ford WSS - M2C 937 - A∙ MB 229.3∙ Porsche A40∙ VW 502 00∙ VW 505 00 "
     }
   ],
-  "locgiokn": [
-    {
-      "title": "Lọc Gió HA_1513 cho Shi 2013-2018",
-      "price": "1.050.000",
-      "img": " https://www.knfilters.com/images/l/HA-1513.jpg",
-      "content": " Lọc vải cotton thấm dầu, lấy gió nhiều hơn, cản bụi tốt hơn, tăng tốc nhanh hơn.<br/>Vệ sinh dùng lại trọn đời."
-    }
-  ],
-  "lopmetzelr": [
-    {
+  "locgiokn": [{
+    "title": "Lọc Gió HA_1513 cho Shi 2013-2018",
+    "price": "1.050.000",
+    "img": " https://www.knfilters.com/images/l/HA-1513.jpg",
+    "content": " Lọc vải cotton thấm dầu, lấy gió nhiều hơn, cản bụi tốt hơn, tăng tốc nhanh hơn.<br/>Vệ sinh dùng lại trọn đời."
+  }],
+  "lopmetzelr": [{
       "title": "Metzeler 120/80-16",
       "price": "950.000",
       "img": "https://www.ventaneumaticos.com/9388-large_default/metzeler-feelfree-10080-16-50p.jpg",
@@ -119,6 +113,85 @@
       "price": "450.000",
       "img": " https://images-na.ssl-images-amazon.com/images/I/71Eabkg72RL._SL1200_.jpg",
       "content": " Vỏ xe máy Metzeler 90/90-14, với thiết kế hoàn toàn mới, dòng cao cấp hơn nhiều so với các loại thông thường.<br/>METZELER là một công ty sản xuất vỏ xe của Đức với hơn 100 năm kinh nghiệm sản xuất vỏ xe máy.<br/>Vỏ xe Metzeler 90 / 90 - 14 gắn được bánh sau cho xe AB,<br/>Click,<br/>Vision,<br/>Luvias...<br/>Dùng cho dòng xe: Luvias 125 Click 125 / 150 PCX 125 / 150 Air Blade 110 / 125 Air Blade 2018 Vision 2017 Vision Fi PCX 2018 Air Blade 2016 Vision 2018 Vario 150 / 125 "
+    }
+  ],
+  "maphanhsinter": [{
+      "title": "Elig EM-120",
+      "price": "650.000",
+      "img": ["./images/maphanh/logo-elig-1998.png", "http://www.sbs.dk/admin/public/GetImage.ashx?Image=/Files/images/products/828.jpg&Compression=75&Width=484&Height=596&Crop=5"],
+      "content": "Tiết kiệm: Độ mài mòn thấp. Tuổi thọ kéo dài gấp 2 lần so với bố thắng đĩa (phanh đĩa) thông thường.<br/>Bảo vệ: Giúp đĩa thắng(disc brake) không bị trầy xước và chống sự mài mòn tốt hơn so với bố thắng đĩa(phanh đĩa) thông thường.Tấm sắt của bố thắng(má phanh) có độ cứng vững cao,<br/>chịu được lực phanh lớn.•An toàn: Sử dụng lực bàn đạp ít,<br/>độ ma sát ổn định ngay cả khi phanh gấp ở vận tốc cao.Khi hệ thống phanh bị ẩm ướt hay bám bụi thì hệ số ma sát của bố thắng đĩa(phanh đĩa) Elig vẫn rất tốt.•Thân thiện với môi trường: Sản phẩm được làm từ vật liệu chất lượng cao,<br/>độ bụi và dị âm cực thấp,<br/>100 % không chứa Amiăng(là chất độc hại gây bệnh cho con người và môi trường).Đạt chuẩn môi trường châu Âu ROSH.•Dùng cho loại xe: Sh125,<br/>Sh150,<br/>Sh300i,<br/>CB600F,<br/>CBR250r,<br/>CBF500 "
+    },
+    {
+      "title": "Elig EM014A",
+      "price": "Giá tiền",
+      "img": ["./images/maphanh/em014a.jpg", "http://www.sbs.dk/admin/public/GetImage.ashx?Image=/Files/images/products/700.jpg&Compression=75&Width=484&Height=596&Crop=5"],
+      "content": "Dùng cho các dòng xe: honda Sh150 ABS 2017-,honda,suzki,kawasaki,yamaha,kymco,triumph,cagiva,daelim"
+    },
+    {
+      "title": "Elig H009",
+      "price": "290.000",
+      "img": ["./images/maphanh/h009.jpg", "http://www.sbs.dk/admin/public/GetImage.ashx?Image=/Files/images/products/828.jpg&Compression=75&Width=484&Height=596&Crop=5"],
+      "content": " Sh125, Sh150, Sh300i, CB600F, CBR250r, CBF500"
+    },
+    {
+      "title": "Elig H008",
+      "price": "290.000",
+      "img": ["./images/maphanh/h008.jpg", "http://www.sbs.dk/admin/public/GetImage.ashx?Image=/Files/images/products/193.jpg&Compression=75&Width=484&Height=596&Crop=5"],
+      "content": "Phanh Sau SH125, SH150,SH300i,Benelli 300"
+    },
+    {
+      "title": "Elig H002",
+      "price": "240.000",
+      "img": ["./images/maphanh/h002.jpg", "http://www.sbs.dk/admin/public/GetImage.ashx?Image=/Files/images/products/859.jpg&Compression=75&Width=484&Height=596&Crop=5"],
+      "content": "Má Phanh Honda MSX, FU neo, FU 2<br/>Mã Elig H002 "
+    },
+    {
+      "title": "Má Phanh Honda Winner, Wave S110",
+      "price": "240.00",
+      "img": "./images/maphanh/winner.jpg",
+      "content": " Honda Winner, Wave S110<br/>Mã Elig H007"
+    },
+    {
+      "title": "Má Phanh Honda AB, Click, Vario ",
+      "price": "240.000",
+      "img": "./images/maphanh/ab.jpg",
+      "content": " Má Phanh Honda AB, Click, Vario<br/>Mã Elig H0010.<br/>"
+    },
+    {
+      "title": "Má Phanh Sinter AB Cũ trước 2012",
+      "price": "465.000",
+      "img": "./images/maphanh/abcux.jpg",
+      "content": " Má Phanh Sinter AB Cũ trước 2012 <br/>Mã Elig H006"
+    },
+    {
+      "title": "Má Phanh Sau(Sinter) Sonic, Exciter, Raider",
+      "price": "465.000",
+      "img": "./images/maphanh/exciter23.jpg",
+      "content": " Má Phanh Sau(Sinter) Sonic, Exciter, Raider . Mã Elig FA343"
+    },
+    {
+      "title": "Má Phanh Sinter YAMAHA exciter150, NVX",
+      "price": "465.000",
+      "img": "./images/maphanh/excitter.jpg",
+      "content": " Má Phanh Sinter YAMAHA exciter150, NVX . Mã elig EM349"
+    },
+    {
+      "title": "Má Phanh Ceramic YAMAHA exciter150, NVX ",
+      "price": "240.000",
+      "img": "./images/maphanh/exciter234.jpg",
+      "content": " Má Phanh Ceramic YAMAHA exciter150, NVX . Mã elig Em349"
+    },
+    {
+      "title": " Má Phanh Ceramic(NRS) YAMAHA exciter150, NVX ",
+      "price": "320.000",
+      "img": "./images/maphanh/exxciter.jpg",
+      "content": " Má Phanh Ceramic(NRS) YAMAHA exciter150, NVX  . Mã Elig EM349"
+    },
+    {
+      "title": "Má Phanh Sinter BremBo 2piston đối xứng",
+      "price": "560.000VNĐ",
+      "img": "./images/maphanh/EM039.jpg",
+      "content": " Má Phanh Sinter BremBo 2piston đối xứng "
     }
   ]
 }

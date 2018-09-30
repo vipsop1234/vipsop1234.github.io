@@ -32,6 +32,8 @@ $(document).ready(function () {
       $.get("data/section.json", function (data) {
         if (data[section]) {
           (data[section] || []).forEach((element, index) => {
+            if(typeof element.img == 'object')
+              element.img = element.img[0];
             $('section.tiles').append(`
             <article>
               <span class="image">
@@ -49,15 +51,25 @@ $(document).ready(function () {
       });
     }
   } else {
+    let arrImg = [];
+    let changeimage = () => {
+      let imgLink = arrImg.filter( x => x != $('section.content p span.image img').attr('src'));
+      $('section.content p span.image img').attr('src',imgLink[0]);
+    }
     $.get("data/section.json", function (data) {
       if (data[section] && data[section][product]) {
         let product_data = data[section][product];
+        if(typeof product_data.img == 'object') {
+          arrImg = product_data.img;
+          setInterval(changeimage, 3000);
+        }
+        let img = arrImg[0] || product_data.img;
         $('#main div.inner > h1').text(product_data.title);
         $('section.content').append(`
           <p>
-            <span class="image left"><img src="${product_data.img}" alt="" />
+            <span class="image left" id="productImg"><img src="${img}" alt="" />
             <p>${product_data.price}</p></span>${product_data.content}.</p>
-          `)
+          `);
       } else window.location.href = "index.html"
     });
   }
