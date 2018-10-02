@@ -68,8 +68,12 @@ $(document).ready(function () {
         $('section.content').append(`
           <p>
             <span class="image left" id="productImg"><img src="${img}" alt="" />
-            <p>${product_data.price}</p></span>${product_data.content}.</p>
+            <p style="color: red; font-weight: bold"> Giá : ${product_data.price}</p></span>${product_data.content}.
+          </p>
+          <p>Liên hệ: Nguyễn Hữu Đạt - 0794600650</p>
+          <p>308 Phạm Cự Lượng - Đà Nẵng</p>
           `);
+        $('title').text(`${product_data.title} - DaNangOil`);
       } else window.location.href = "index.html"
     });
   }
