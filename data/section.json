@@ -1,11 +1,12 @@
 {
-  "daunhot": [{
-    "title": "4T HC scooter 5w40",
-    "price": "250.000",
-    "img": " http://liqui-moly.vn/wp-content/uploads/2018/05/20829_119.jpg",
-    "content": " Dầu động cơ hiệu suất cao dựa trên công nghệ tổng hợp. Đạt hiệu suất tối đa và bảo vệ động cơ tối đa trong mọi điều kiện hoạt động. Đảm bảo bôi trơn tối ưu, đặc biệt làm sạch động cơ, ma sát tuyệt vời."
-  }],
-  "dnliquy-moly": [{
+  "dnliquy-moly": [
+    {
+      "title": "4T HC scooter 5w40",
+      "price": "250.000",
+      "img": " http://liqui-moly.vn/wp-content/uploads/2018/05/20829_119.jpg",
+      "content": " Dầu động cơ hiệu suất cao dựa trên công nghệ tổng hợp. Đạt hiệu suất tối đa và bảo vệ động cơ tối đa trong mọi điều kiện hoạt động. Đảm bảo bôi trơn tối ưu, đặc biệt làm sạch động cơ, ma sát tuyệt vời."
+    },
+    {
       "title": "4T STREET RACE 10W40",
       "price": "320.000 ",
       "img": "http://liqui-moly.vn/wp-content/uploads/2018/05/20753_980.jpg",
@@ -147,7 +148,7 @@
     },
     {
       "title": "Má Phanh Honda Winner, Wave S110",
-      "price": "240.00",
+      "price": "240.000",
       "img": "./images/maphanh/winner.jpg",
       "content": " Honda Winner, Wave S110<br/>Mã Elig H007"
     },
